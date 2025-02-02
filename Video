@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RunwayML Clone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">RunwayML Clone</div>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Unleash Your Creativity with AI</h1>
+        <p>Explore the future of content creation with our powerful AI tools.</p>
+        <a href="#get-started" class="cta-button">Get Started</a>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <h3>Feature 1</h3>
+            <p>Description of feature 1.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature 2</h3>
+            <p>Description of feature 2.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature 3</h3>
+            <p>Description of feature 3.</p>
+        </div>
+    </section>
+
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Choose a plan that fits your needs.</p>
+        <div class="pricing-plan">
+            <h3>Basic Plan</h3>
+            <p>$10/month</p>
+            <a href="#get-started" class="cta-button">Sign Up</a>
+        </div>
+        <div class="pricing-plan">
+            <h3>Pro Plan</h3>
+            <p>$30/month</p>
+            <a href="#get-started" class="cta-button">Sign Up</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 RunwayML Clone. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
